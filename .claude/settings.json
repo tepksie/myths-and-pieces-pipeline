@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 /mnt/project-files/pipeline/yt_upload.py upload:*)"
+    ]
+  }
+}
